@@ -12,7 +12,7 @@ GitHub Repo Link: [https://github.com/jeylanab/README-GENERATOR
 
  
 
-  ![HOME PAGE]![image_url](https://github.com/jeylanab/README-GENERATOR/blob/main/asset/README.mp4)
+  ![VIDEO]![VIDEO_url](https://github.com/jeylanab/README-GENERATOR/blob/main/asset/README.mp4)
 
 
 ## Credit 
